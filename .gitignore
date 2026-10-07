@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Local data files — DO NOT upload raw datasets
+data/*.csv
+data/*.xlsx
+data/*.xls
+data/*.zip
+
+# Trained model files
+*.pkl
+*.joblib
+*.h5
+
+# Environment / secrets
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
